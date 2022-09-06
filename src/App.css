@@ -1,1 +1,7 @@
+@import url('http://fonts.cdnfonts.com/css/satoshi');
 
+.App {
+  height: 100vh;
+  font-family: 'Satoshi', sans-serif;
+                                                
+}
