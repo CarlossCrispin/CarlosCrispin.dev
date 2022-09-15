@@ -5,7 +5,7 @@ export default function Carlos({ showNav }) {
     <>
       {!showNav && (
         <div className="container p-6">
-          <div className="w-full text-5xl text-violet-700 bg-violet-100 p-2">
+          <div className="w-full text-2xl md:text-5xl text-violet-700 bg-violet-100 p-2">
             Hey hola ! soy Carlos, Desarrollador de software enfocado en el
             Frontend, consumiendo datos para transformarlos y generar colores,
             formas, tamaños, emociones y experiencias que dejen satisfecho al

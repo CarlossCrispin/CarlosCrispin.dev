@@ -12,7 +12,7 @@ export default function Nav() {
     () =>
       selected
         ? 'fixed w-1/2 p-6 text-5xl text-bold  md:text-9xl  transition duration-700 ease-in-out translate-x-24 translate-y-24 animate__animated animate__fadeIn tracking-widest'
-        : 'fixed w-1/2 p-6 top-72 md:top-96 text-5xl text-bold  md:text-9xl  transition duration-700 ease-in-out translate-x-24 translate-y-96 py-12 md:py-28 overflow-hidden tracking-widest',
+        : 'fixed w-1/2 p-6 top-56 md:top-96 text-5xl text-bold  md:text-9xl  transition duration-700 ease-in-out translate-x-24 translate-y-96 py-12 md:py-28 overflow-hidden tracking-widest',
     [selected]
   )
   const navPosition = useMemo(
