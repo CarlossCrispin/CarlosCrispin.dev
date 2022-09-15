@@ -3,5 +3,5 @@
 .App {
   height: 100vh;
   font-family: 'Satoshi', sans-serif;
-                                                
+  overflow: hidden;
 }
